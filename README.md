@@ -40,7 +40,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 
 ```bash
   git clone https://github.com/sabaz120/books-projct.git
-  cd clients-projct
+  cd books-projct
 ```
 - **Instalar dependencias**
 ```bash
